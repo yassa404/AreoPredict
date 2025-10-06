@@ -43,7 +43,7 @@ If a severe weather or pollution event is predicted, the system issues an alert 
 ---
 
 ## 👩‍💻 Team Elysians
-- Lobna Ashraf
+- [Lobna Ashraf](https://github.com/lobnaashraf878-glitch)
 - Yassa Mazhar 
 - Amr Hassan   
 - Shaza Bahy  
