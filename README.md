@@ -43,8 +43,9 @@ If a severe weather or pollution event is predicted, the system issues an alert 
 ---
 
 ## 👩‍💻 Team Elysians
-- Amr Hassan  
-- Yassa Mazhar  
+- Lobna Ashraf
+- Yassa Mazhar 
+- Amr Hassan   
 - Shaza Bahy  
 - Ahmed Eid  
 - Hassan Alaa Hafez  
